@@ -1,4 +1,4 @@
-# exercies:
+# exercises:
 
 # 1. Print your age to the console:
 print(25)
