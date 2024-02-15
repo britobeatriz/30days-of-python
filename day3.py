@@ -5,7 +5,7 @@ greeting = "Hello, world"
 print(f"{greeting}" + "!")
 
 # 2.
-name = input("ask me your name: ")
+name = input("ask me your name: ").strip().title()
 greeting = "Hello, "
 print(f"{greeting}" + f"{name}" + "!")
 
@@ -20,4 +20,4 @@ title = "Joker"
 director = "Todd Phillips"
 release_year = 2019
 release_year = str(release_year)
-print(f"{title} "  + f"({release_year}) " + "directed by " + f"{director}")
+print(f"{title}  ({release_year}),  directed by {director}")
