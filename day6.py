@@ -79,7 +79,6 @@ for employee in employees:
     #pay_employees.append(em)
     pay_employees += sum(em) 
 
+    average = pay_employees / total 
     if employee[1] > average: 
          print(f"{employee[0]}")
-
-average = pay_employees / total 
