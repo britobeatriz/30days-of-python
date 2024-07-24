@@ -8,4 +8,5 @@ day 3: formatting, strings and processing user input;<br>
 day 4: basic python collections(list and tuple);<br>
 day 5: conditional structure and booleans;<br>
 day 6: loops;
-day 7: split, join and slices.
+day 7: split, join and slices;
+day 8 : loops: while.
