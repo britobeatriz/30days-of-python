@@ -10,4 +10,5 @@ day 5: conditional structure and booleans;<br>
 day 6: loops;<br>
 day 7: split, join and slices;<br>
 day 8 : loops: while;<br>
-day 9 : unpacking, enumaration and the zip function.
+day 9 : unpacking, enumaration and the zip function;<br>
+day 10: dictionaries.
